@@ -1,4 +1,4 @@
-"""Descarga el CSV público indicado en la guía desde Kaggle."""
+"""se descarga el CSV público indicado en la guía desde Kaggle."""
 from pathlib import Path
 from urllib.request import urlopen, Request
 from zipfile import ZipFile
